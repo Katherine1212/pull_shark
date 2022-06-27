@@ -10,3 +10,7 @@ If you do settings done please follow this flow <br/>
 3. move to new branch and change someting
 4. make pull request (master <- new branch)
 5. merged!! and can get a Pull shark icon!!
+
+# YOLO
+If you make a PR you should request somebody to review this PR. <br/>
+Click Reviewer and add somebody.
