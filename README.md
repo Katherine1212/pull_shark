@@ -12,5 +12,9 @@ If you do settings done please follow this flow <br/>
 5. merged!! and can get a Pull shark icon!!
 
 # YOLO
+Before make a PR
+you have to change settings. <br/>
+`Settings- Collaborators- Add people`
+![image](https://user-images.githubusercontent.com/76967778/176095332-2e409f87-1126-4b94-b915-6abc25a83d16.png)
 If you make a PR you should request somebody to review this PR. <br/>
 Click Reviewer and add somebody.
